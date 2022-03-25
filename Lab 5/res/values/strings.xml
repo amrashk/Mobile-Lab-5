@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">labb5</string>
+    <string name="visible_eng_mon">Show both</string>
+    <string name="visible_mon">Show only Mongolian</string>
+    <string name="visible_eng">Show only English</string>
+    <string name="save">Save</string>
+    <string name="toBack">Back</string>
+    <string name="action_settings">Settings</string>
+</resources>
